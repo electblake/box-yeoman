@@ -8,6 +8,7 @@ gem 'bourbon'
 gem 'neat'
 gem 'bitters'
 gem "breakpoint", "~>2.4.0"
+gem 'susy'
 
 # Breakpoint
 # https://github.com/Team-Sass/breakpoint/wiki/Installation
