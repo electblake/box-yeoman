@@ -7,7 +7,7 @@ description: "node.js, compass, yeoman, grunt, bower, phantomjs, karma"
 packages:
   - nodejs@0.10.29
   - phantomjs@1.9.2
-  - compass@1.0.0.alpha.21
+  - compass@1.0.1
 keywords:
   - nodejs
   - compass
